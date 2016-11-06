@@ -1,0 +1,44 @@
+--operadores aritmeticos
+5-3
+5+3
+5/3
+5 `div` 3
+5 `mod 3`
+5 + 3 * 2 
+(5 + 3) * 2
+--operadores logicos
+True && True
+True && False
+False && True
+False && False
+True || True
+True || False
+False || True
+False || False
+not False
+not True
+not (True && True)
+not (False || False)
+--operadores de comparacion
+3 == 3
+3 /= 5
+3 /= 3
+3 > 3
+3 > 5
+10 > 5
+3 >= 3
+3 >= 5
+10 >= 5
+3 < 3
+3 < 5
+10 < 5
+3 <= 3
+3 <= 5
+10 <= 5
+
+
+
+
+
+
+
