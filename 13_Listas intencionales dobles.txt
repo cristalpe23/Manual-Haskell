@@ -1,0 +1,11 @@
+mostrarVocales cadena = [vocales| vocales<- cadena, vocales `elem` "aeiou"]
+sumarVocales suma = sum    [1| x<-(mostrarVocales suma)]
+
+
+
+
+
+
+
+
+
