@@ -1,0 +1,13 @@
+nombre = ["Rafael","Cristal","Aguntin","Daniel"]
+noControl=[12490466,12490889,12490468,12490469]
+zip nombre noControl
+
+
+
+
+
+
+
+
+
+
