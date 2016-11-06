@@ -1,0 +1,14 @@
+--Ejemplo1, numeros impares del 1 al 50 y multiplicarlos por 10.
+let x = [ x*10 | x <- [1..50] , x `mod` 2==1 ]
+
+--Ejemplo2, 30 primeros numeros con suma de 5 entre sus elementos.
+let x = [ x | x <- take 30 ( [5,10..] )]
+
+
+
+
+
+
+
+
+
