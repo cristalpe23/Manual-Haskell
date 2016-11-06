@@ -1,0 +1,26 @@
+--tipo de dato entero
+:t 6
+
+--tipo de dato booleano
+:t True
+
+--tipo de dato lista de caracteres
+:t "abc"
+
+--tipo de dato caracter
+:t 'a'
+
+--formato funcion head
+:t head
+
+--formato funcion snd
+:t snd 
+
+
+
+
+
+
+
+
+
