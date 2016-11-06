@@ -1,0 +1,20 @@
+--funcion show
+noControl = 12490889
+show noControl
+
+
+--funcion read
+read "2" + 3
+read "True" && False
+read "[1]" ++ [2,3]
+read "7.6" * 2.5
+
+
+
+
+
+
+
+
+
+
