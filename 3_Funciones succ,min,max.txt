@@ -1,0 +1,23 @@
+--funcion succ
+succ 8
+succ 203.11
+succ (-3)
+succ 'a'
+--funcion min
+min 9 6
+min 'z' 'a'
+min 203.88 307.77
+min (-8) (-5)
+--funcion max
+max 9 6
+max 'z' 'a'
+max 203.88 307.77
+max (-8) (-5)
+
+
+
+
+
+
+
+
