@@ -1,0 +1,20 @@
+--listas
+let lista=[1,2,3]
+lista
+
+--tuplas
+let tupla=(1,2,'a')
+tupla
+
+--listas de tuplas
+let listasTuplas = [(1,2),(3,4),(5,6)]
+
+
+
+
+
+
+
+
+
+
