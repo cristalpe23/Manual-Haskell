@@ -1,0 +1,18 @@
+--funcion fst
+dupla = (1,'a')
+fst dupla
+
+--funcion snd
+dupla = (1,'a')
+snd dupla
+
+
+
+
+
+
+
+
+
+
+
