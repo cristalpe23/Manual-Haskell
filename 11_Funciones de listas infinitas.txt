@@ -1,0 +1,20 @@
+--funcion repeat
+repeat 5
+
+--funcion cycle
+cycle ['a','b','c'] 
+
+--limites en funciones bucles
+take 20 (cycle [1,2,3])
+take 10 (repeat 6)
+take 5 (cycle ['a','b'])
+take 10 (repeat 108)
+
+
+
+
+
+
+
+
+
