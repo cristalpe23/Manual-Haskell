@@ -1,0 +1,13 @@
+[[1,2,3],[4,5]] --lista de listas
+[1,2,3,4] --lista de enteros
+[True,False,True,False] --lista de booleanos
+['a','b','c','d'] --lista de caracteres
+-- concatenacion de listas
+['h','o','l']++['a'] 
+False:[True,False,False]
+
+
+
+
+
+
