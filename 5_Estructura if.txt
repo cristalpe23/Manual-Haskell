@@ -1,0 +1,7 @@
+comparacion x y = if x > y
+		  then "si es mayor"
+		  else "no es mayor"
+
+
+
+
